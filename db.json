@@ -2,162 +2,120 @@
   {
     "index": 0,
     "isActive": false,
-    "balance": "$3,297.99",
-    "picture": "http://placehold.it/32x32",
-    "age": 45,
-    "name": "Robinson Gates",
-    "gender": "male",
-    "company": "GEEKFARM",
-    "email": "robinsongates@geekfarm.com",
-    "phone": "+1 (857) 545-3399",
-    "registered": "2014-04-20T10:05:40 +07:00",
+    "name": "Barbra Mullins",
+    "gender": "female",
+    "company": "TERRASYS",
+    "email": "barbramullins@terrasys.com",
+    "phone": "+1 (808) 482-2313",
+    "registered": "2016-02-29T08:28:40 +08:00",
     "friends": [
       {
         "id": 0,
-        "name": "Rae Underwood"
+        "name": "Jamie Grimes"
       },
       {
         "id": 1,
-        "name": "Lopez Greer"
+        "name": "Watts Finley"
       },
       {
         "id": 2,
-        "name": "Abby Pittman"
+        "name": "Trevino Hudson"
       }
     ]
   },
   {
     "index": 1,
-    "isActive": false,
-    "balance": "$1,776.74",
-    "picture": "http://placehold.it/32x32",
-    "age": 36,
-    "name": "Tiffany Rojas",
-    "gender": "female",
-    "company": "MITROC",
-    "email": "tiffanyrojas@mitroc.com",
-    "phone": "+1 (828) 473-2085",
-    "registered": "2017-05-03T10:39:26 +07:00",
+    "isActive": true,
+    "name": "Mason Randall",
+    "gender": "male",
+    "company": "SULFAX",
+    "email": "masonrandall@sulfax.com",
+    "phone": "+1 (947) 540-2621",
+    "registered": "2017-10-23T08:20:02 +07:00",
     "friends": [
       {
         "id": 0,
-        "name": "Dotson Buckley"
+        "name": "Shana Huffman"
       },
       {
         "id": 1,
-        "name": "Letha Mckee"
+        "name": "Karina Hart"
       },
       {
         "id": 2,
-        "name": "Tamika Norton"
+        "name": "Hale Glover"
       }
     ]
   },
   {
     "index": 2,
-    "isActive": true,
-    "balance": "$3,734.91",
-    "picture": "http://placehold.it/32x32",
-    "age": 48,
-    "name": "Norman Molina",
-    "gender": "male",
-    "company": "BITENDREX",
-    "email": "normanmolina@bitendrex.com",
-    "phone": "+1 (804) 415-2196",
-    "registered": "2015-03-19T10:31:51 +07:00",
+    "isActive": false,
+    "name": "Janelle Vazquez",
+    "gender": "female",
+    "company": "AUTOGRATE",
+    "email": "janellevazquez@autograte.com",
+    "phone": "+1 (945) 460-2890",
+    "registered": "2018-11-26T06:04:42 +08:00",
     "friends": [
       {
         "id": 0,
-        "name": "Charlotte Morrison"
+        "name": "Ofelia Newton"
       },
       {
         "id": 1,
-        "name": "Robin Barnes"
+        "name": "Donaldson Cameron"
       },
       {
         "id": 2,
-        "name": "Selma Harper"
+        "name": "Dennis Crawford"
       }
     ]
   },
   {
     "index": 3,
     "isActive": true,
-    "balance": "$2,770.27",
-    "picture": "http://placehold.it/32x32",
-    "age": 41,
-    "name": "Tanner Malone",
+    "name": "Haney Frazier",
     "gender": "male",
-    "company": "PETICULAR",
-    "email": "tannermalone@peticular.com",
-    "phone": "+1 (969) 540-3352",
-    "registered": "2014-01-07T08:24:15 +08:00",
+    "company": "COMVEYER",
+    "email": "haneyfrazier@comveyer.com",
+    "phone": "+1 (840) 551-3965",
+    "registered": "2017-04-04T07:50:43 +07:00",
     "friends": [
       {
         "id": 0,
-        "name": "Lucinda Austin"
+        "name": "Cruz Brooks"
       },
       {
         "id": 1,
-        "name": "Burns Reilly"
+        "name": "Beach Burns"
       },
       {
         "id": 2,
-        "name": "Richards Drake"
+        "name": "Mary Moon"
       }
     ]
   },
   {
     "index": 4,
-    "isActive": true,
-    "balance": "$2,924.94",
-    "picture": "http://placehold.it/32x32",
-    "age": 41,
-    "name": "Hattie Erickson",
-    "gender": "female",
-    "company": "HANDSHAKE",
-    "email": "hattieerickson@handshake.com",
-    "phone": "+1 (943) 424-3475",
-    "registered": "2018-12-06T04:35:05 +08:00",
+    "isActive": false,
+    "name": "Pierce Ramos",
+    "gender": "male",
+    "company": "QUALITERN",
+    "email": "pierceramos@qualitern.com",
+    "phone": "+1 (989) 562-3077",
+    "registered": "2019-06-09T09:20:50 +07:00",
     "friends": [
       {
         "id": 0,
-        "name": "Wilkins Mayer"
+        "name": "Deirdre Norris"
       },
       {
         "id": 1,
-        "name": "Nichols Summers"
+        "name": "Flynn Craft"
       },
       {
         "id": 2,
-        "name": "Mendez Gonzalez"
-      }
-    ]
-  },
-  {
-    "index": 5,
-    "isActive": true,
-    "balance": "$3,238.23",
-    "picture": "http://placehold.it/32x32",
-    "age": 40,
-    "name": "Dianna Gentry",
-    "gender": "female",
-    "company": "XELEGYL",
-    "email": "diannagentry@xelegyl.com",
-    "phone": "+1 (807) 467-2985",
-    "registered": "2014-01-07T07:29:56 +08:00",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Valenzuela Todd"
-      },
-      {
-        "id": 1,
-        "name": "Skinner Carpenter"
-      },
-      {
-        "id": 2,
-        "name": "Buckley Dalton"
+        "name": "Tillman Larsen"
       }
     ]
   }
