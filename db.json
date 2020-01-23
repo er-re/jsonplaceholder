@@ -1,44 +1,14 @@
-[
-  {
-    "index": 0,
-    "isActive": false,
-    "name": "Cristina Hopkins",
-    "gender": "female"
-  },
-  {
-    "index": 1,
-    "isActive": true,
-    "name": "Karen Becker",
-    "gender": "female"
-  },
-  {
-    "index": 2,
-    "isActive": false,
-    "name": "Hart Mclean",
-    "gender": "male"
-  },
-  {
-    "index": 3,
-    "isActive": false,
-    "name": "Lynn Wade",
-    "gender": "male"
-  },
-  {
-    "index": 4,
-    "isActive": true,
-    "name": "Rowe Kinney",
-    "gender": "male"
-  },
-  {
-    "index": 5,
-    "isActive": false,
-    "name": "Russell Mercer",
-    "gender": "male"
-  },
-  {
-    "index": 6,
-    "isActive": false,
-    "name": "Mack Benjamin",
-    "gender": "male"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
