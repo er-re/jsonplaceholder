@@ -2,121 +2,43 @@
   {
     "index": 0,
     "isActive": false,
-    "name": "Barbra Mullins",
-    "gender": "female",
-    "company": "TERRASYS",
-    "email": "barbramullins@terrasys.com",
-    "phone": "+1 (808) 482-2313",
-    "registered": "2016-02-29T08:28:40 +08:00",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Jamie Grimes"
-      },
-      {
-        "id": 1,
-        "name": "Watts Finley"
-      },
-      {
-        "id": 2,
-        "name": "Trevino Hudson"
-      }
-    ]
+    "name": "Cristina Hopkins",
+    "gender": "female"
   },
   {
     "index": 1,
     "isActive": true,
-    "name": "Mason Randall",
-    "gender": "male",
-    "company": "SULFAX",
-    "email": "masonrandall@sulfax.com",
-    "phone": "+1 (947) 540-2621",
-    "registered": "2017-10-23T08:20:02 +07:00",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Shana Huffman"
-      },
-      {
-        "id": 1,
-        "name": "Karina Hart"
-      },
-      {
-        "id": 2,
-        "name": "Hale Glover"
-      }
-    ]
+    "name": "Karen Becker",
+    "gender": "female"
   },
   {
     "index": 2,
     "isActive": false,
-    "name": "Janelle Vazquez",
-    "gender": "female",
-    "company": "AUTOGRATE",
-    "email": "janellevazquez@autograte.com",
-    "phone": "+1 (945) 460-2890",
-    "registered": "2018-11-26T06:04:42 +08:00",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Ofelia Newton"
-      },
-      {
-        "id": 1,
-        "name": "Donaldson Cameron"
-      },
-      {
-        "id": 2,
-        "name": "Dennis Crawford"
-      }
-    ]
+    "name": "Hart Mclean",
+    "gender": "male"
   },
   {
     "index": 3,
-    "isActive": true,
-    "name": "Haney Frazier",
-    "gender": "male",
-    "company": "COMVEYER",
-    "email": "haneyfrazier@comveyer.com",
-    "phone": "+1 (840) 551-3965",
-    "registered": "2017-04-04T07:50:43 +07:00",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Cruz Brooks"
-      },
-      {
-        "id": 1,
-        "name": "Beach Burns"
-      },
-      {
-        "id": 2,
-        "name": "Mary Moon"
-      }
-    ]
+    "isActive": false,
+    "name": "Lynn Wade",
+    "gender": "male"
   },
   {
     "index": 4,
+    "isActive": true,
+    "name": "Rowe Kinney",
+    "gender": "male"
+  },
+  {
+    "index": 5,
     "isActive": false,
-    "name": "Pierce Ramos",
-    "gender": "male",
-    "company": "QUALITERN",
-    "email": "pierceramos@qualitern.com",
-    "phone": "+1 (989) 562-3077",
-    "registered": "2019-06-09T09:20:50 +07:00",
-    "friends": [
-      {
-        "id": 0,
-        "name": "Deirdre Norris"
-      },
-      {
-        "id": 1,
-        "name": "Flynn Craft"
-      },
-      {
-        "id": 2,
-        "name": "Tillman Larsen"
-      }
-    ]
+    "name": "Russell Mercer",
+    "gender": "male"
+  },
+  {
+    "index": 6,
+    "isActive": false,
+    "name": "Mack Benjamin",
+    "gender": "male"
   }
 ]
